@@ -6,3 +6,5 @@ git is free software GPL.
 
 git has mutable index called stage
 git tracks changes
+ 
+ change1
