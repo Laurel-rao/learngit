@@ -3,3 +3,6 @@ git  是一个非常强大的分布式版本控制系统
 
 git is  a distruibuted version control system.
 git is free software GPL.
+
+git has mutable index called stage
+git tracks changes
