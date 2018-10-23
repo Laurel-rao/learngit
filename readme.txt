@@ -10,3 +10,4 @@ back to old version use command like
 cancel the operation
 	git reset --hard <version number>
 
+conflict a resolution with haha
